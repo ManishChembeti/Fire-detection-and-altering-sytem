@@ -22,3 +22,4 @@ webhook will be triggered.
 A notification will be sent to the fire department and the number of people in the separate 
 areas(rooms) in the affected area(building) will be displayed in the LCD
 
+
