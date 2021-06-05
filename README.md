@@ -1,1 +1,1 @@
-# Fire-detection-and-alerting-sytem--UsingIOT
+# Fire-detection-and-alerting-sytem-UsingIOT
