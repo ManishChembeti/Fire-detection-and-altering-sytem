@@ -23,3 +23,7 @@ A notification will be sent to the fire department and the number of people in t
 areas(rooms) in the affected area(building) will be displayed in the LCD
 
 
+Due to the diversification of components, totally different operative structures, and increasing sources of uncertainty within the grid, the complexness of electrical systems continues to increase. So as to unravel this complexity and prepare the electrical system infrastructure for the challenges and obstacles of the long run power grid in the returning decades, several researchers have implied the conception of good grid in the past 2 decades. Good grids have brought vital changes to quality and resource management, that need major advancements in telecommunications infrastructure, reportage software, automation, and network intelligence. The Internet of Things may be a cheap and sensible method might connect multiple forms of devices to every different through express programming, sensors, devices, then on. Effective devices and information transmission technologies are more and more utilized in the energy sector; including installations. This gradual process, not to mention the facility of automation and large data analysis, may produce a valuable energy chain within the energy sector. Helpful analysis of those data can improve power system performance and quality detection, thereby considerably reducing prices.
+
+
+
