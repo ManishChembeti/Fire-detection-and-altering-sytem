@@ -35,3 +35,8 @@ Here we tend to be utilizing the temperature detector LM335, temperature sensor 
 
 ![image](https://user-images.githubusercontent.com/59841174/120939927-12a79280-c738-11eb-9e58-cc7c3aaf9180.png)
 
+
+The IR detector is utilized here which is an device that measures and finds actinic ray in its close environment. In an exceeding outlined angle range, the detector components detect the warmth radiation (infrared radiation) that changes over time to the movement of people. There are two IR sensors related to the entry that are once more associated with the Arduino for a range of people within the regarded area which is shown in the alphanumeric display screen.
+ 
+The information is understood and communicated in real time with things speak cloud and can receive an alert once temperatures exceed the given threshold price.
+
