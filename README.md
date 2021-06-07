@@ -55,3 +55,13 @@ Design:
 •	An unique API key required to send the data to our cloud, which will be obtained.
 ![image](https://user-images.githubusercontent.com/85409148/121043948-ba719e80-c7d2-11eb-9fea-9e1b13653a94.png)
 
+•	Thing HTTP which is used to connect the React and Thingspeak channel.
+![image](https://user-images.githubusercontent.com/85409148/121044061-d70dd680-c7d2-11eb-94c4-b9dcfef7547e.png)
+
+⦁	React is used to trigger the particular URL when the data in Thing speak cloud will crosses particular value (pre threshold).
+![image](https://user-images.githubusercontent.com/85409148/121044124-e5f48900-c7d2-11eb-91c2-aa67df8d6a4e.png)
+
+IFTTT Configuration
+Here, we are using IFTTT Applet to alert the registered user when the webhook has been triggered.
+
+![image](https://user-images.githubusercontent.com/85409148/121044201-f6a4ff00-c7d2-11eb-9b2c-3b8b4889fbde.png)
