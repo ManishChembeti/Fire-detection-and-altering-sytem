@@ -42,3 +42,7 @@ The IR detector is utilized here which is an device that measures and finds acti
  
 The information is understood and communicated in real time with things speak cloud and can receive an alert once temperatures exceed the given threshold price.
 
+![image](https://user-images.githubusercontent.com/85409148/121043679-78e0f380-c7d2-11eb-997b-ceeba882f225.png)
+
+
+
