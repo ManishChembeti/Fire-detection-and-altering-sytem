@@ -59,6 +59,7 @@ Design:
 ![image](https://user-images.githubusercontent.com/85409148/121044061-d70dd680-c7d2-11eb-94c4-b9dcfef7547e.png)
 
 ⦁	React is used to trigger the particular URL when the data in Thing speak cloud will crosses particular value (pre threshold).
+
 ![image](https://user-images.githubusercontent.com/85409148/121044124-e5f48900-c7d2-11eb-91c2-aa67df8d6a4e.png)
 
 IFTTT Configuration
