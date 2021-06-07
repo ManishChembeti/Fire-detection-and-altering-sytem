@@ -44,5 +44,7 @@ The information is understood and communicated in real time with things speak cl
 
 ![image](https://user-images.githubusercontent.com/85409148/121043679-78e0f380-c7d2-11eb-997b-ceeba882f225.png)
 
+Design:
 
+![image](https://user-images.githubusercontent.com/85409148/121043729-85654c00-c7d2-11eb-8019-0cff831c95a3.png)
 
