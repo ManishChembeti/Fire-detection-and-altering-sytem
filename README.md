@@ -1,4 +1,4 @@
-# Fire-detection-and-altering-sytem-UsingIOT
+# Fire detection and altering sytem
 
 *Done in Semester 4 in J component for Internet of Things (CSE3009)*
 
