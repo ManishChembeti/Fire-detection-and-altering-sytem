@@ -69,4 +69,23 @@ Here, we are using IFTTT Applet to alert the registered user when the webhook ha
 Here we can get the url from the documentation.
 ![image](https://user-images.githubusercontent.com/85409148/121044321-14726400-c7d3-11eb-9b79-8ec1db152570.png)
 
+Results:
+
+⦁	Count is calculated with the difference in PIR sensors.
+
+⦁	Indicating number of people through the LCD screens.
+
+![image](https://user-images.githubusercontent.com/85409148/121044491-2bb15180-c7d3-11eb-95ac-ab26e3f1754b.png)
+
+SMS sent to registered mobile number.
+
+![image](https://user-images.githubusercontent.com/85409148/121044761-3bc93100-c7d3-11eb-8fd0-6f503d3200cc.png)
+
+
+The collection and application of surrounding data might dramatically alter our approach to fireplace bar and firefighting, and ultimately facilitate to avoid wasting lives.
+
+The necessary part in fire police work is early and reliable detection and localization of the fire. The info collected through totally different detectors placed at different locations and information are sent to Arduino Uno placed in varied places. As a result the projected model is tested with ThingSpeak net interface and sensor data is recorded for testing of fireplace detection.
+
+
+
 
