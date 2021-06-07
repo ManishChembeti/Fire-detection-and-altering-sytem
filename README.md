@@ -48,3 +48,10 @@ Design:
 
 ![image](https://user-images.githubusercontent.com/85409148/121043729-85654c00-c7d2-11eb-8019-0cff831c95a3.png)
 
+•	View of the channel where we can visualize the updated data in to cloud.
+![image](https://user-images.githubusercontent.com/85409148/121043899-acbc1900-c7d2-11eb-94bd-6fe1053e589b.png)
+
+
+•	An unique API key required to send the data to our cloud, which will be obtained.
+![image](https://user-images.githubusercontent.com/85409148/121043948-ba719e80-c7d2-11eb-9fea-9e1b13653a94.png)
+
