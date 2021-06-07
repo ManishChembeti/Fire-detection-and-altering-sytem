@@ -68,6 +68,7 @@ Here, we are using IFTTT Applet to alert the registered user when the webhook ha
 ![image](https://user-images.githubusercontent.com/85409148/121044201-f6a4ff00-c7d2-11eb-9b2c-3b8b4889fbde.png)
 
 Here we can get the url from the documentation.
+
 ![image](https://user-images.githubusercontent.com/85409148/121044321-14726400-c7d3-11eb-9b79-8ec1db152570.png)
 
 Results:
