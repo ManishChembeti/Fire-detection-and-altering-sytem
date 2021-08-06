@@ -1,6 +1,6 @@
 # Fire detection and altering sytem
 
-*Done in Semester 4 in J component for Internet of Things (CSE3009)*
+*J component(CSE3009)*
 
 
 Internet of Things (IoT) is basically a network which consists of physical systems that are embedded with sensors connected to a cloud where data is exchanged with the help of a gateway, which facilitates to and from communication of data connected over the internet. 
