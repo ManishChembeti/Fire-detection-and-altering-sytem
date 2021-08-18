@@ -1,4 +1,4 @@
-# Fire detection and altering sytem
+# Fire detection and altering system
 
 *J component(CSE3009)*
 
